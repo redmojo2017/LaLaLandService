@@ -1,0 +1,5 @@
+首页 http://localhost:8080/basedemo/hello/welcome.html
+
+项目集成redis 线上环境切换到redis-cluster 
+druid 访问限制在web.xml配置  http://119.29.117.24:8080/basedemo/druid/login.html
+dubbo
